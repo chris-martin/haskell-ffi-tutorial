@@ -1,7 +1,6 @@
 name:                haskell-ffi
 version:             0.1.0.0
 license:             MIT
-license-file:        LICENSE
 author:              Alex Petrov
 maintainer:          alexp@coffeenco.de
 copyright:           Alex Petrov
