@@ -15,3 +15,7 @@ clean:
 
 all: wrapper
 	./wrapper
+
+.PHONY: stack-repl
+stack-repl:
+	stack repl --ghc-options -fobject-code
